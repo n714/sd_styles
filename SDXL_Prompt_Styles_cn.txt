@@ -1,0 +1,67 @@
+Style: 增强
+Positive: breathtaking {prompt} . award-winning, professional, highly detailed
+Negative: ugly, deformed, noisy, blurry, distorted, grainy
+
+Style: 动漫
+Positive: anime artwork {prompt} . anime style, key visual, vibrant, studio anime,  highly detailed
+Negative: photo, deformed, black and white, realism, disfigured, low contrast
+
+Style: 摄影
+Positive: cinematic photo {prompt} . 35mm photograph, film, bokeh, professional, 4k, highly detailed
+Negative: drawing, painting, crayon, sketch, graphite, impressionist, noisy, blurry, soft, deformed, ugly
+
+Style: 数字艺术
+Positive: concept art {prompt} . digital artwork, illustrative, painterly, matte painting, highly detailed
+Negative: photo, photorealistic, realism, ugly
+
+Style: 漫画
+Positive: comic {prompt} . graphic illustration, comic art, graphic novel art, vibrant, highly detailed
+Negative: photograph, deformed, glitch, noisy, realistic, stock photo
+
+Style: 幻想艺术
+Positive: ethereal fantasy concept art of  {prompt} . magnificent, celestial, ethereal, painterly, epic, majestic, magical, fantasy art, cover art, dreamy
+Negative: photographic, realistic, realism, 35mm film, dslr, cropped, frame, text, deformed, glitch, noise, noisy, off-center, deformed, cross-eyed, closed eyes, bad anatomy, ugly, disfigured, sloppy, duplicate, mutated, black and white
+
+Style: 模拟胶片
+Positive: analog film photo {prompt} . faded film, desaturated, 35mm photo, grainy, vignette, vintage, Kodachrome, Lomography, stained, highly detailed, found footage
+Negative: painting, drawing, illustration, glitch, deformed, mutated, cross-eyed, ugly, disfigured
+
+Style: 霓虹朋克
+Positive: neonpunk style {prompt} . cyberpunk, vaporwave, neon, vibes, vibrant, stunningly beautiful, crisp, detailed, sleek, ultramodern, magenta highlights, dark purple shadows, high contrast, cinematic, ultra detailed, intricate, professional
+Negative: painting, drawing, illustration, glitch, deformed, mutated, cross-eyed, ugly, disfigured
+
+Style: 等角投影
+Positive: isometric style {prompt} . vibrant, beautiful, crisp, detailed, ultra detailed, intricate
+Negative: deformed, mutated, ugly, disfigured, blur, blurry, noise, noisy, realistic, photographic
+
+Style: 低聚面
+Positive: low-poly style {prompt} . low-poly game art, polygon mesh, jagged, blocky, wireframe edges, centered composition
+Negative: noisy, sloppy, messy, grainy, highly detailed, ultra textured, photo
+
+Style: 折纸
+Positive: origami style {prompt} . paper art, pleated paper, folded, origami art, pleats, cut and fold, centered composition
+Negative: noisy, sloppy, messy, grainy, highly detailed, ultra textured, photo
+
+Style: 线条画
+Positive: line art drawing {prompt} . professional, sleek, modern, minimalist, graphic, line art, vector graphics
+Negative: anime, photorealistic, 35mm film, deformed, glitch, blurry, noisy, off-center, deformed, cross-eyed, closed eyes, bad anatomy, ugly, disfigured, mutated, realism, realistic, impressionism, expressionism, oil, acrylic
+
+Style: 黏土工艺
+Positive: play-doh style {prompt} . sculpture, clay art, centered composition, Claymation
+Negative: sloppy, messy, grainy, highly detailed, ultra textured, photo
+
+Style: 电影化
+Positive: cinematic film still {prompt} . shallow depth of field, vignette, highly detailed, high budget Hollywood movie, bokeh, cinemascope, moody, epic, gorgeous, film grain, grainy
+Negative: anime, cartoon, graphic, text, painting, crayon, graphite, abstract, glitch, deformed, mutated, ugly, disfigured
+
+Style: 3D模型
+Positive: professional 3d model {prompt} . octane render, highly detailed, volumetric, dramatic lighting
+Negative: ugly, deformed, noisy, low poly, blurry, painting
+
+Style: 像素艺术
+Postive: pixel-art {prompt} . low-res, blocky, pixel art style, 8-bit graphics
+Negative: sloppy, messy, blurry, noisy, highly detailed, ultra textured, photo, realistic
+
+Style: 质感
+Positive: texture {prompt} top down close-up
+Negative: ugly, deformed, noisy, blurry
