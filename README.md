@@ -1,5 +1,5 @@
 # Stable Diffusion SDXL Styles
-[English](##nglish), [簡體中文](#簡體中文), [繁體中文](#繁體中文)
+[English](https://github.com/n714/sd_styles/blob/main/SDXL_Prompt_Styles_en.txt), [簡體中文](https://github.com/n714/sd_styles/blob/main/SDXL_Prompt_Styles_cn.txt), [繁體中文](https://github.com/n714/sd_styles/blob/main/SDXL_Prompt_Styles_tw.txt)
 
 ### English
 - Enhance
