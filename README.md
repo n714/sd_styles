@@ -1,4 +1,8 @@
 # Stable Diffusion Styles
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/n714mc)
+
+
 [English](https://github.com/n714/sd_styles/blob/main/SDXL_Prompt_Styles_en.txt), [簡體中文](https://github.com/n714/sd_styles/blob/main/SDXL_Prompt_Styles_cn.txt), [繁體中文](https://github.com/n714/sd_styles/blob/main/SDXL_Prompt_Styles_tw.txt)
 
 [video-convert-1690838686642.webm](https://github.com/n714/sd_styles/assets/45053630/7fb86ef8-6efb-45e8-835e-37c583922c5e)
