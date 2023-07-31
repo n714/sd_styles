@@ -5,14 +5,14 @@
 - Enhance
 - Anime
 - Photographic
-- Digital art- Comic book
+- Digital art
 - Fantasy art
 - Analog film
 - Neonpunk
 - Isometric
 - Lowpoly
 - Origami
-- Line art- Craft clay
+- Line art
 - Cinematic
 - 3d-model
 - pixel art	
