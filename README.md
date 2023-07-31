@@ -1,5 +1,5 @@
 # Stable Diffusion SDXL Styles
-[English](###English), [簡體中文](###簡體中文), [繁體中文](###繁體中文)
+[English](##nglish), [簡體中文](#簡體中文), [繁體中文](#繁體中文)
 
 ### English
 - Enhance
