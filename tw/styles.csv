@@ -1,0 +1,34 @@
+____SD XL Styles____,,
+增強,"Enhance, {prompt} breathtaking award-winning, professional, highly detailed","ugly, deformed, noisy, blurry, distorted, grainy"
+
+動漫,"Anime, {prompt} anime artwork anime style, key visual, vibrant, studio anime, highly detailed","photo, deformed, black and white, realism, disfigured, low contrast"
+
+攝影,"Photographic, {prompt} cinematic photo 35mm photograph, film, bokeh, professional, 4k, highly detailed","drawing, painting, crayon, sketch, graphite, impressionist, noisy, blurry, soft, deformed, ugly"
+
+數字藝術,"Digital art, {prompt} concept art digital artwork, illustrative, painterly, matte painting, highly detailed","photo, photorealistic, realism, ugly"
+
+漫畫,"Comic book, {prompt} comic graphic illustration, comic art, graphic novel art, vibrant, highly detailed","photograph, deformed, glitch, noisy, realistic, stock photo"
+
+奇幻藝術,"Fantasy art, {prompt} ethereal fantasy concept art magnificent, celestial, ethereal, painterly, epic, majestic, magical, fantasy art, cover art, dreamy","photographic, realistic, realism, 35mm film, dslr, cropped, frame, text, deformed, glitch, noise, noisy, off-center, deformed, cross-eyed, closed eyes, bad anatomy, ugly, disfigured, sloppy, duplicate, mutated, black and white"
+
+模擬膠捲,"Analog film, {prompt} analog film photo faded film, desaturated, 35mm photo, grainy, vignette, vintage, Kodachrome, Lomography, stained, highly detailed, found footage","painting, drawing, illustration, glitch, deformed, mutated, cross-eyed, ugly, disfigured"
+
+霓虹朋克,"Neonpunk, {prompt} neonpunk style cyberpunk, vaporwave, neon, vibes, vibrant, stunningly beautiful, crisp, detailed, sleek, ultramodern, magenta highlights, dark purple shadows, high contrast, cinematic, ultra detailed, intricate, professional","painting, drawing, illustration, glitch, deformed, mutated, cross-eyed, ugly, disfigured"
+
+等角投影,"Isometric, {prompt} isometric style vibrant, beautiful, crisp, detailed, ultra detailed, intricate","deformed, mutated, ugly, disfigured, blur, blurry, noise, noisy, realistic, photographic"
+
+低聚面,"Lowpoly, {prompt} low-poly style low-poly game art, polygon mesh, jagged, blocky, wireframe edges, centered composition","noisy, sloppy, messy, grainy, highly detailed, ultra textured, photo"
+
+摺紙,"Origami, {prompt} origami style paper art, pleated paper, folded, origami art, pleats, cut and fold, centered composition","noisy, sloppy, messy, grainy, highly detailed, ultra textured, photo"
+
+線條畫,"Line art, {prompt} line art drawing professional, sleek, modern, minimalist, graphic, line art, vector graphics","anime, photorealistic, 35mm film, deformed, glitch, blurry, noisy, off-center, deformed, cross-eyed, closed eyes, bad anatomy, ugly, disfigured, mutated, realism, realistic, impressionism, expressionism, oil, acrylic"
+
+黏土工藝,"Craft clay, {prompt} play-doh style sculpture, clay art, centered composition, Claymation","sloppy, messy, grainy, highly detailed, ultra textured, photo"
+
+電影化,"Cinematic, {prompt} cinematic film still shallow depth of field, vignette, highly detailed, high budget, bokeh, cinemascope, moody, epic, gorgeous, film grain, grainy","anime, cartoon, graphic, text, painting, crayon, graphite, abstract, glitch, deformed, mutated, ugly, disfigured"
+
+3D模型,"3D-model, {prompt} professional 3d model octane render, highly detailed, volumetric, dramatic lighting","ugly, deformed, noisy, low poly, blurry, painting"
+
+像素藝術,"Pixel art, {prompt} pixel-art low-res, blocky, pixel art style, 8-bit graphics","sloppy, messy, blurry, noisy, highly detailed, ultra textured, photo, realistic"
+
+質感,"Texture, {prompt} texture top down close-up","ugly, deformed, noisy, blurry"
