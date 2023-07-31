@@ -61,7 +61,3 @@ Negative: ugly, deformed, noisy, low poly, blurry, painting
 Style: 像素艺术
 Postive: pixel-art {prompt} . low-res, blocky, pixel art style, 8-bit graphics
 Negative: sloppy, messy, blurry, noisy, highly detailed, ultra textured, photo, realistic
-
-Style: 质感
-Positive: texture {prompt} top down close-up
-Negative: ugly, deformed, noisy, blurry
