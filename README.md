@@ -2,7 +2,7 @@
 [English](https://github.com/n714/sd_styles/blob/main/SDXL_Prompt_Styles_en.txt), [簡體中文](https://github.com/n714/sd_styles/blob/main/SDXL_Prompt_Styles_cn.txt), [繁體中文](https://github.com/n714/sd_styles/blob/main/SDXL_Prompt_Styles_tw.txt)
 
 ### English
-download `[style.csv](https://raw.githubusercontent.com/n714/sd_styles/main/styles.csv)` and add or replace to `stable-diffusion-webui` root folder
+download [style.csv](https://raw.githubusercontent.com/n714/sd_styles/main/styles.csv) and add or replace to `stable-diffusion-webui` root folder
 
 Select the style you want, then click 📋 icon, style too aaply to prompt.
 
@@ -23,7 +23,7 @@ Select the style you want, then click 📋 icon, style too aaply to prompt.
 - Texture
 
 ### 簡體中文
-下载 `[style.csv](https://raw.githubusercontent.com/n714/sd_styles/main/tw/styles.csv)` 并添加或替换到 `stable-diffusion-webui` 根文件夹
+下载 [style.csv](https://raw.githubusercontent.com/n714/sd_styles/main/tw/styles.csv) 并添加或替换到 `stable-diffusion-webui` 根文件夹
 
 选择你想要的样式，然后点击📋图标，样式太适合提示。
 
@@ -46,7 +46,7 @@ Select the style you want, then click 📋 icon, style too aaply to prompt.
 - 质感
 
 ### 繁體中文
-下載 `[style.csv](https://raw.githubusercontent.com/n714/sd_styles/main/cn/styles.csv)` 並添加或替換到 `stable-diffusion-webui` 根文件夾
+下載 [style.csv](https://raw.githubusercontent.com/n714/sd_styles/main/cn/styles.csv) 並添加或替換到 `stable-diffusion-webui` 根文件夾
 
 選擇你想要的樣式，然後點擊📋圖標，樣式太適合提示。
 
