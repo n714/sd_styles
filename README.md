@@ -1,6 +1,8 @@
 # Stable Diffusion SDXL Styles
 [English](https://github.com/n714/sd_styles/blob/main/SDXL_Prompt_Styles_en.txt), [簡體中文](https://github.com/n714/sd_styles/blob/main/SDXL_Prompt_Styles_cn.txt), [繁體中文](https://github.com/n714/sd_styles/blob/main/SDXL_Prompt_Styles_tw.txt)
 
+![download](https://github.com/n714/sd_styles/assets/45053630/7328deba-912f-4031-a76c-84b908be7f0a)
+
 ### English
 download [style.csv](https://github.com/n714/sd_styles/blob/main/en/styles.csv) and add or replace to `stable-diffusion-webui` root folder
 
