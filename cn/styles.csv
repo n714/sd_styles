@@ -32,3 +32,63 @@ ____SD XL Styles____,,
 像素艺术,"Pixel art, {prompt} pixel-art low-res, blocky, pixel art style, 8-bit graphics","sloppy, messy, blurry, noisy, highly detailed, ultra textured, photo, realistic"
 
 质感,"Texture, {prompt} texture top down close-up","ugly, deformed, noisy, blurry"
+
+____SD 风格____,,
+
+"风格: 混沌","chaotic style, pellmell and folly {prompt} . intricate, dreamy, anarchy, ultra detailed, vivid colors, scattered, incoherent scene, disfigured composition, destroyed, insanity, mental disorder, cloned, deformed, messy, terrible proportions, fused colors","blurry, noisy, tidy, coherent, black and white, correct composition, bad anatomy"
+
+"风格: 火焰掌控者","firebender style, {prompt}, fire elements, fantasy, fire, lava, striking. A majestic composition with fire elements, fire and ashes surrounding, highly detailed and realistic, cinematic lighting","lowres, low resolution, bad quality, jpg artifacts, ugly, deformed, noisy, blurry"
+
+"风格: 水掌控者","waterbender style, {prompt}, water elements, fantasy, water, exotic, A majestic composition with water elements, waterfall, lush moss and exotic flowers, highly detailed and realistic, dynamic lighting","lowres, low resolution, bad quality, jpg artifacts, ugly, deformed, noisy, blurry"
+
+"风格: Knoling案例","knoling case style, {prompt}, in square glass case, glass cube, glowing, knolling case, ash thorp, studio background, desktopography, cgsociety 9, cgsociety, mind-bending digital art","lowres, low resolution, bad quality, jpg artifacts, ugly, deformed, noisy, blurry"
+
+"风格: 玻璃球","glass ball style, {prompt}, inside glass ball, translucent sphere, cgsociety 9, glass orb, behance, polished, beautiful digital artwork, exquisite digital art, in a short round glass vase, octane render","lowres, low resolution, bad quality, jpg artifacts, ugly, deformed, noisy, blurry"
+
+"风格: 我的世界","minecraft style, {prompt}, minecraft build, style of minecraft, pixel style, 8 bit, epic, cinematic, screenshot from minecraft, detailed natural lighting, minecraft gameplay, mojang, minecraft mods, minecraft in real life, blocky like minecraft","lowres, low resolution, bad quality, jpg artifacts, ugly, deformed, noisy, blurry"
+
+"风格: 迪士尼","disney style, {prompt}, disney animation, disney splash art, disney color palette, disney renaissance film, disney pixar movie still, disney art style, disney concept art :: nixri, wonderful compositions, pixar, disney concept artists, 2d character design","lowres, low resolution, bad quality, jpg artifacts, ugly, deformed, noisy, blurry"
+
+"风格: stained glass","stained glass style, {prompt}, intricate wiccan spectrum, stained glass art, vividly beautiful colors, beautiful stained glass window, colorful image, intricate stained glass triptych, gothic stained glass style, stained glass window!!!","lowres, low resolution, bad quality, jpg artifacts, ugly, deformed, noisy, blurry"
+
+"风格: 毛线化","woolitize style, {prompt}, cute! c4d, made out of wool, volumetric wool felting, wool felting art, houdini sidefx, rendered in arnold, soft smooth lighting, soft pastel colors","lowres, low resolution, bad quality, jpg artifacts, ugly, deformed, noisy, blurry"
+
+"风格: 标志","logo style, {prompt}, creative logo, unique logo, visual identity, geometric type, graphic design, logotype design, brand identity, vector based, trendy typography, best of behance","lowres, low resolution, bad quality, jpg artifacts, ugly, deformed, noisy, blurry"
+
+"风格: 侠盗猎车手","gta style, {prompt}, gta iv art style, gta art, gta loading screen art, gta chinatowon art style, gta 5 loading screen poster, grand theft auto 5, grand theft auto video game","lowres, low resolution, bad quality, jpg artifacts, ugly, deformed, noisy, blurry"
+
+"风格: 反乌托邦","dystopian style, {prompt}, sci-fi world, cybernetic civilizations, peter gric and dan mumford, brutalist dark futuristic, dystopian brutalist atmosphere, dark dystopian world, cinematic 8k, end of the world, doomsday","lowres, low resolution, bad quality, jpg artifacts, ugly, deformed, noisy, blurry"
+
+"风格: 产品摄影","product photography style, {prompt}, product photo studio lighting, high detail product photo, product photography, commercial product photography, realistic, light, 8k, award winning product photography, professional closeup","lowres, low resolution, bad quality, jpg artifacts, ugly, deformed, noisy, blurry"
+
+"风格: 迷幻","psychedelic style, {prompt}, psychedelic painting, psychedelic dripping colors, colorful detailed projections, android jones and chris dyer, psychedelic vibrant colors, intricate psychedelic patterns, psychedelic visuals, hallucinatory art","lowres, low resolution, bad quality, jpg artifacts, ugly, deformed, noisy, blurry"
+
+"风格: 糖果乐园","candy land style, {prompt}, candy land style, whimsical fantasy landscape art, japanese pop surrealism, colorfull digital fantasy art, made of candy and lollypops, whimsical and dreamy","lowres, low resolution, bad quality, jpg artifacts, ugly, deformed, noisy, blurry"
+
+"风格: 粘土动画","claymation style, {prompt}, clay animation, as a claymation character, claymation style, animation key shot, plasticine, clay animation, stopmotion animation, aardman character design, plasticine models","lowres, low resolution, bad quality, jpg artifacts, ugly, deformed, noisy, blurry"
+
+"风格: 中世纪","medieval style, {prompt}, movie still from game of thrones, powerful fantasy epic, middle ages, lush green landscape, olden times, roman empire, 1400 ce, highly detailed background, cinematic lighting, 8k render, high quality, bright colours","lowres, low resolution, bad quality, jpg artifacts, ugly, deformed, noisy, blurry"
+
+"风格: 折纸","origami style, {prompt}, polygonal art, layered paper art, paper origami, wonderful compositions, folded geometry, paper craft, made from paper","lowres, low resolution, bad quality, jpg artifacts, ugly, deformed, noisy, blurry"
+
+"风格: 亚马逊","amazonian style, {prompt}, amazonian cave, landscape, jungle, waterfall, moss-covered ancient ruins, Dramatic lighting and intense colors, mesmerizing details of the environment and breathtaking atmosphere","lowres, low resolution, bad quality, jpg artifacts, ugly, deformed, noisy, blurry"
+
+"风格: 三叶幻想","shamrock fantasy style, {prompt}, shamrock fantasy, fantasy, vivid colors, grapevine, celtic fantasy art, lucky clovers, dreamlike atmosphere, captivating details, soft light and vivid colors","lowres, low resolution, bad quality, jpg artifacts, ugly, deformed, noisy, blurry"
+
+"风格: 霓虹","neon style, {prompt}, neon art style, night time dark with neon colors, blue neon lighting, violet and aqua neon lights, blacklight neon colors, rococo cyber neon lighting","lowres, low resolution, bad quality, jpg artifacts, ugly, deformed, noisy, blurry"
+
+"风格: 受困","haunted style, {prompt}, horror cgi 4k, scary color art in 4k, horror movie cinematography, insidious, la llorona, still from animated horror movie, film still from horror movie, haunted, eerie, unsettling, creepy","lowres, low resolution, bad quality, jpg artifacts, ugly, deformed, noisy, blurry"
+
+"风格: 森林朋克","forestpunk style, {prompt}, forestpunk, vibrant, HDRI, organic motifs and pollen in the air, bold vibrant colors and textures, spectacular sparkling rays, photorealistic quality with Hasselblad","lowres, low resolution, bad quality, jpg artifacts, ugly, deformed, noisy, blurry"
+
+"风格: 精灵","elven style, {prompt}, elven lifestyle, photoreal, realistic, 32k quality, crafted by Elves and engraved in copper, elven fantasy land, hyper detailed","lowres, low resolution, bad quality, jpg artifacts, ugly, deformed, noisy, blurry"
+
+"风格: 浪人","samurai style, {prompt}, samurai lifesyle, miyamoto musashi, Japanese art, ancient japanese samurai, feudal japan art, feudal japan art","lowres, low resolution, bad quality, jpg artifacts, ugly, deformed, noisy, blurry"
+
+"风格: 充满活力的维京","vibrant viking style, {prompt}, Viking era, digital painting, pop of colour, forest, paint splatter, flowing colors, Background of lush forest and earthy tones, Artistic representation of movement and atmosphere","lowres, low resolution, bad quality, jpg artifacts, ugly, deformed, noisy, blurry"
+
+"风格: 图标","icon style, {prompt}, single vector graphics icon, ios icon, smooth shape, vector","lowres, low resolution, bad quality, jpg artifacts, ugly, deformed, noisy, blurry"
+
+"风格: 纸艺","papercut style, {prompt}, layered paper art, paper modeling art, paper craft, paper art, papercraft, paper cutout, paper cut out collage artwork, paper cut art","lowres, low resolution, bad quality, jpg artifacts, ugly, deformed, noisy, blurry"
+
+"风格: 贴纸","sticker style, {prompt}, sticker, sticker art, symmetrical sticker design, sticker - art, sticker illustration, die - cut sticker","lowres, low resolution, bad quality, jpg artifacts, ugly, deformed, noisy, blurry"
